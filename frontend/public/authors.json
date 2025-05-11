@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "author": "1",
+            "author_name": "Trice Buchanan",
+            "course": "COM S 3190",
+            "email": "triceb@iastate.edu",
+            "date": "3/9/2025",
+            "professor": "Jabir Karachiwala",
+            "image_url": "/images/author1.jpg"
+        },
+        {
+            "author": "1",
+            "author_name": "Roan Angerer",
+            "course": "COM S 3190",
+            "email": "rangerer@iastate.edu",
+            "date": "3/9/2025",
+            "professor": "Jabir Karachiwala",
+            "image_url": "/images/author2.jpg"
+        }
+    ]
+}

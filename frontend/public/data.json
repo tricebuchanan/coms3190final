@@ -1,0 +1,88 @@
+{
+    "places": [
+        {
+            "location_id": "1",
+            "location_name": "The Grand Canyon",
+            "description": "One of the most iconic natural wonders of the world, the Grand Canyon offers breathtaking views, hiking, rafting, and unforgettable sunsets.",
+            "price": "Price: $$",
+            "image_url": "/images/domestic1.jpg"
+        },
+        {
+            "location_id": "2",
+            "location_name": "New York City",
+            "description": "A vibrant metropolis known for its iconic landmarks like Times Square, Central Park, the Statue of Liberty, and world-class museums like the Metropolitan Museum of Art.",
+            "price": "Price: $$$$$",
+            "image_url": "/images/domestic2.jpg"
+        },
+        {
+            "location_id": "3",
+            "location_name": "Yellowstone",
+            "description": "America's first national park, known for its geysers, hot springs, wildlife, and rugged landscapes. It's a haven for nature lovers and adventure seekers.",
+            "price": "Price: $$$",
+            "image_url": "/images/domestic3.jpg"
+        },
+        {
+            "location_id": "4",
+            "location_name": "Maui",
+            "description": "A tropical paradise with stunning beaches, lush rainforests, the scenic Hana Highway, and Haleakalā National Park, where you can watch the sunrise from a volcanic crater.",
+            "price": "Price: $$$$$",
+            "image_url": "/images/domestic4.jpg"
+        },
+        {
+            "location_id": "5",
+            "location_name": "Washington, D.C.",
+            "description": "The U.S. capital is home to significant monuments and museums, including the Lincoln Memorial, the National Mall, the Smithsonian museums, and the U.S. Capitol.",
+            "price": "Price: $$$",
+            "image_url": "/images/domestic6.jpg"
+        },
+        {
+            "location_id": "6",
+            "location_name": "San Francisco",
+            "description": "Famous for the Golden Gate Bridge, Alcatraz Island, Fisherman’s Wharf, and its charming neighborhoods like Chinatown and Haight-Ashbury.",
+            "price": "Price: $$$$",
+            "image_url": "/images/domestic5.jpg"
+        },
+        {
+            "location_id": "7",
+            "location_name": "Paris",
+            "description": "The “City of Light” is famous for its romantic ambiance, world-class museums (like the Louvre), stunning architecture (Eiffel Tower, Notre Dame), and rich culinary scene. While it can be expensive, strolling along the Seine or through Montmartre costs nothing.",
+            "price": "Price: $$$$$",
+            "image_url": "/images/international1.jpg"
+        },
+        {
+            "location_id": "8",
+            "location_name": "Bangkok",
+            "description": "A vibrant city blending ancient temples (like Wat Arun and Wat Phra Kaew) with modern skyscrapers and bustling markets. Known for its affordable street food, exciting nightlife, and floating markets, it's a budget traveler’s paradise.",
+            "price": "Price: $$",
+            "image_url": "/images/international2.jpg"
+        },
+        {
+            "location_id": "9",
+            "location_name": "Tokyo",
+            "description": "A futuristic metropolis with deep cultural roots. Experience high-tech districts like Akihabara, historic temples in Asakusa, and world-renowned sushi. Despite its reputation for being pricey, it offers budget-friendly dining and unique free attractions.",
+            "price": "Price: $$$$",
+            "image_url": "/images/international3.jpg"
+        },
+        {
+            "location_id": "10",
+            "location_name": "Rome",
+            "description": "The Eternal City is a treasure trove of ancient ruins (Colosseum, Pantheon), Renaissance art, and delicious Italian cuisine. While some attractions have entrance fees, much of Rome’s history can be explored for free just by walking its streets.",
+            "price": "Price: $$$",
+            "image_url": "/images/international4.jpg"
+        },
+        {
+            "location_id": "11",
+            "location_name": "Cape Town",
+            "description": "A stunning coastal city known for Table Mountain, beautiful beaches, and vibrant culture. Adventure seekers can explore wine country, go on safaris, or take scenic drives along the Cape of Good Hope. Costs are reasonable, but flights can be pricey.",
+            "price": "Price: $$$",
+            "image_url": "/images/international5.jpg"
+        },
+        {
+            "location_id": "12",
+            "location_name": "Sydney",
+            "description": "A lively harbor city famous for the Sydney Opera House, Bondi Beach, and breathtaking coastal walks. Dining and accommodation can be expensive, but free attractions like beaches, parks, and outdoor markets help balance costs.",
+            "price": "Price: $$$$",
+            "image_url": "/images/international6.jpg"
+        }
+    ]
+}
